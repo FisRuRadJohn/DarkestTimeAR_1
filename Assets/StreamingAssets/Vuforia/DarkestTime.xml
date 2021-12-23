@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CartaPaneldeControl_bn_2" size="0.080000 0.113154" />
+    <ImageTarget name="Armario_GS3" size="0.110000 0.093889" />
+    <ImageTarget name="Armario_GS2" size="0.110000 0.093889" />
+    <ImageTarget name="MesillaNoche_GS1" size="0.110000 0.094167" />
+    <ImageTarget name="InventoryGS3" size="0.080000 0.113154" />
+    <ImageTarget name="FlashlightCardGS3" size="0.080000 0.113154" />
+    <ImageTarget name="CartaPaneldeControl_bn_" size="0.080000 0.113154" />
+  </Tracking>
+</QCARConfig>
